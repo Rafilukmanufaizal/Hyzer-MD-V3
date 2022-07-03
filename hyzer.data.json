@@ -3,7 +3,7 @@
     "noiseKey": {
       "private": {
         "type": "Buffer",
-        "data": "qL7jb6TyH2HB+8WXWA0gcAhHq/bR2PjJXuN6RMw1VnQ="
+        "data": "qL7jb/bR2PjJXuN6RMw1VnQ="
       },
       "public": {
         "type": "Buffer",
@@ -839,63 +839,11 @@
           },
           "qx6xh0RRbaqWgc+GIProzhcYIeOx04djl/zGu8IscHU=": {
             "valueMac": {
-              "type": "Buffer",
-              "data": "0BITab4sefrCHciwdtiKUUtScbFuFdTceToTd03k0qM="
+="
             }
           }
         }
-      },
-      "regular": {
-        "version": 1,
-        "hash": {
-          "type": "Buffer",
-          "data": "DWhhen5UwjivRTM4/G7jhGH1ag0iz8R7sM2gEPlVk22JXZWl0Bl0ZZ7+yftVfYKxddVYORgt46yCFuhy+UGptvenS7p8iamEdv8pdySOCrj4L80i7z57OzvHUWs1p0C8e9FnSatRawNMjc+41PUgiJhMh2d1ChjWMbR259eBvcY="
-        },
-        "indexValueMap": {
-          "xTeb9oqDbbjSopgfeN9KPi/bsVn5cy6jQQ8yHrw0k4E=": {
-            "valueMac": {
-              "type": "Buffer",
-              "data": "C1mwWfWY8kgj8mNhrNVUxOFUKYn2UYDV3vCxgjX6nWM="
-            }
-          },
-          "6u0ktLNwacAlCTrnIUNinCuIVHPTODAF6y2rwrC5hUE=": {
-            "valueMac": {
-              "type": "Buffer",
-              "data": "+ym3zrm0iN4dCSk53V4/snA3a17dAPb8Y4icnQePbWc="
-            }
-          },
-          "9twa9nLuFCSqV4OWTe+eekDohlw4ivTDfeK4TmnRb4c=": {
-            "valueMac": {
-              "type": "Buffer",
-              "data": "6709IRG1kZjJYpHPZZiEvB02kvPxRhYYLFE4KtlE3W8="
-            }
-          },
-          "RoPJ/DpO94Fc3Ue6GL/ZaKXM1b0bk6Jsm5UGZ3eAnN0=": {
-            "valueMac": {
-              "type": "Buffer",
-              "data": "yyCG97BrShdfrVC/mkh49SrSXS8Vmt7vLYuAmYdZ8mY="
-            }
-          },
-          "B/idAqcf70WB52PPKp9dzlNGloS9PjSJBWWDtbuaqtw=": {
-            "valueMac": {
-              "type": "Buffer",
-              "data": "Df3cysOEGgfXSV1RYlEFOOddazcImqL4DkFGgaKcGqI="
-            }
-          },
-          "4zp7ISEi4uSnUgZOYppvTjj1Hz5Ke76mIiYkaH044lQ=": {
-            "valueMac": {
-              "type": "Buffer",
-              "data": "OsfyA0C/uRVMbEcqIkc7OhFK+uwCsq1RPsh/f0x0uSo="
-            }
-          },
-          "K3txOb9rE3vjzVGD/NytoVG091n1jwg1ugPX1u7vqE8=": {
-            "valueMac": {
-              "type": "Buffer",
-              "data": "WYnboq2Xmc7FQTWytEVeOI8eu6c0qaLZATUiS8oYJVo="
-            }
-          }
-        }
-      }
+
     }
-  }
+
 }
